@@ -2,3 +2,4 @@
 
 ## 1. Python Assignments
 - [PYTHON_PROGRAMMING_BASICS ***(25/25)***](https://github.com/JaydeepAgravat/FSDS_ASSIGNMENT/tree/main/PYTHON_PROGRAMMING_BASICS)
+- [PYTHON_BASICS](https://github.com/JaydeepAgravat/FSDS_ASSIGNMENT/tree/main/PYTHON_BASICS)
